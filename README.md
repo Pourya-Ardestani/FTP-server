@@ -1,2 +1,1 @@
-# FTP-server
-project of network class in uni
+# computer-network-phase2
